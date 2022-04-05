@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "1st Stream",
+      "description": "1st Stream Description",
+      "userId": "103220174305567820804",
+      "id": 1
+    },
+    {
+      "title": "2nd Stream",
+      "description": "2nd Stream Description",
+      "userId": "103220174305567820804",
+      "id": 2
+    },
+    {
+      "title": "Arjun Reddy",
+      "description": "Romance",
+      "userId": "106168595623445277139",
+      "id": 3
+    }
+  ]
+}
